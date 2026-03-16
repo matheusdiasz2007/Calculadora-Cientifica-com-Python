@@ -26,5 +26,3 @@ Concepts Applied
 - Mathematical Expression Evaluation
 
 Author: matheusdiasz2007
-
-Matheus D. Pereira
