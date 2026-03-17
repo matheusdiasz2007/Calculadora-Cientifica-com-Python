@@ -79,6 +79,7 @@ class Calculadora(GridLayout):
 
 class CalculadoraApp(App):
     def build(self):
+        self.title = "Calculadora Científica Simples"  # Título da janela
         return Calculadora()
 
 
