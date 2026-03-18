@@ -2,7 +2,7 @@
 
 Description
 
-This project is a scientific calculator developed in Python using the Kivy framework. The application provides a graphical interface for performing basic and scientific mathematical operations.
+This project is a scientific calculator developed in Python using the Kivy framework. The application provides a graphical interface for performing mathematical operations and graphing functions.
 
 Features
 
