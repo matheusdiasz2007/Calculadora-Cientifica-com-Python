@@ -17,6 +17,10 @@ Technologies
 - Python
 - Kivy
 - Math module
+- kivy garden graph
+- threading + clock
+- graphics
+- scrollView
 
 Concepts Applied
 
