@@ -1,5 +1,3 @@
-🧠Para utilizar o projeto e necéssario que você tenha a biblioteca kivy. No terminal digite, pip install kivy
-também e preciso que instale Python no seu computador💻.
 🧮CalculadoraCientificaCompleta. 
 <img width="1003" height="787" alt="CalculadoracientificaCompleta" src="https://github.com/user-attachments/assets/802d9886-aec6-482e-bdb6-b65793f0dd39" />
 
