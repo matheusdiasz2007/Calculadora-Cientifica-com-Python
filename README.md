@@ -1,7 +1,14 @@
-🧮CalculadoraCientificaCompleta. 
-<img width="1003" height="787" alt="CalculadoracientificaCompleta" src="https://github.com/user-attachments/assets/802d9886-aec6-482e-bdb6-b65793f0dd39" />
+<h2 align="center">🧮CalculadoraCientificaCompleta.  </h2>
 
-📈Grafico + Calculadora.
-<img width="1011" height="792" alt="Grafico Sen(x) CalculadoraCompleta" src="https://github.com/user-attachments/assets/a4ede593-a081-4d63-bfaa-afa5654b5f5e" />
+<img width="1021" height="815" alt="Captura de tela 2026-03-17 015724" src="https://github.com/user-attachments/assets/519fde64-e59f-4b43-a3ec-d4a62700b6e9" />
 
-🧮CalculadoraCientificaSimples. <img width="992" height="777" alt="CalculadoraCientificaSimples" src="https://github.com/user-attachments/assets/7147251a-f170-48b4-b46b-7e3e4b2f08fc" />
+<br clear="both">
+
+<h2 align="center"> 📈Grafico + Calculadora. </h2>  <img width="1103" height="855" alt="Captura de tela 2026-03-17 014428" src="https://github.com/user-attachments/assets/0262913c-0dd8-4d20-898d-8e1587994339" />
+
+
+ <br clear="both">
+ 
+<h2 align="center"> 🧮CalculadoraCientificaSimples. </h2> 
+  
+  <img width="992" height="777" alt="CalculadoraCientificaSimples" src="https://github.com/user-attachments/assets/7147251a-f170-48b4-b46b-7e3e4b2f08fc" />
