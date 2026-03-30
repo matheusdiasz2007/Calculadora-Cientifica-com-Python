@@ -1,4 +1,6 @@
 import kivy
+import threading
+import math
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
@@ -8,8 +10,7 @@ from kivy.uix.scrollview import ScrollView
 from kivy_garden.graph import Graph, LinePlot
 from kivy.graphics import Color, Rectangle
 from kivy.clock import Clock
-import threading
-import math
+
 
 class Calculadora(BoxLayout):
 
